@@ -1,15 +1,45 @@
-﻿"REF_DATE","GEO","DGUID","Institution type","Registration status","International Standard Classification of Education (ISCED)","Field of study","Gender","Status of student in Canada","Selected statistics","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
-"2020/2021","Canada","2016A000011124","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54332708","1.1.1.1.1.1.1.1","2171712","","","","0"
-"2020/2021","Newfoundland and Labrador","2016A000210","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54376878","2.1.1.1.1.1.1.1","26181","","","","0"
-"2020/2021","Prince Edward Island","2016A000211","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54385374","3.1.1.1.1.1.1.1","8616","","","","0"
-"2020/2021","Nova Scotia","2016A000212","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54390412","4.1.1.1.1.1.1.1","56841","","","","0"
-"2020/2021","New Brunswick","2016A000213","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54399917","5.1.1.1.1.1.1.1","27099","","","","0"
-"2020/2021","Quebec","2016A000224","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54409123","6.1.1.1.1.1.1.1","539385","","","","0"
-"2020/2021","Ontario","2016A000235","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54421567","7.1.1.1.1.1.1.1","903780","","","","0"
-"2020/2021","Manitoba","2016A000246","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54433328","8.1.1.1.1.1.1.1","63363","","","","0"
-"2020/2021","Saskatchewan","2016A000247","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54441976","9.1.1.1.1.1.1.1","53085","","","","0"
-"2020/2021","Alberta","2016A000248","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54348769","10.1.1.1.1.1.1.1","203523","","","","0"
-"2020/2021","British Columbia","2016A000259","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v54360020","11.1.1.1.1.1.1.1","287523","","","","0"
-"2020/2021","Territories","2016A00016","Total, institution type","Total, registration status","Total, International Standard Classification of Education (ISCED)","Total, field of study" ,"Total, gender","Total, status of student in Canada","Number","Number","223","units","0","v79943114","15.1.1.1.1.1.1.1","2307","","","","0"
-
-
+﻿Province,Year,Registrants
+Newfoundland and Labrador,2017,25305
+Newfoundland and Labrador,2018,24795
+Newfoundland and Labrador,2019,25083
+Newfoundland and Labrador,2020,26181
+Prince Edward Island,2017,8037
+Prince Edward Island,2018,7455
+Prince Edward Island,2019,8505
+Prince Edward Island,2020,8616
+Nova Scotia,2017,53484
+Nova Scotia,2018,54495
+Nova Scotia,2019,57033
+Nova Scotia,2020,56841
+New Brunswick,2017,27057
+New Brunswick,2018,26790
+New Brunswick,2019,27909
+New Brunswick,2020,27099
+Quebec,2017,534054
+Quebec,2018,530367
+Quebec,2019,529743
+Quebec,2020,539385
+Ontario,2017,864822
+Ontario,2018,889755
+Ontario,2019,907641
+Ontario,2020,903780
+Manitoba,2017,62802
+Manitoba,2018,63363
+Manitoba,2019,65037
+Manitoba,2020,63363
+Saskatchewan,2017,56529
+Saskatchewan,2018,59301
+Saskatchewan,2019,56784
+Saskatchewan,2020,53085
+Alberta,2017,194010
+Alberta,2018,200391
+Alberta,2019,203823
+Alberta,2020,203523
+British Columbia,2017,286914
+British Columbia,2018,295320
+British Columbia,2019,297432
+British Columbia,2020,287523
+Territories,2017,3534
+Territories,2018,4071
+Territories,2019,4803
+Territories,2020,2307
