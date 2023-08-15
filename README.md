@@ -1,2 +1,4 @@
-# capstone
-A repository containing my capstone project for DATA 695
+# DATA 695 Capstone Project
+### Imad Ahmad and Zakir Ullah
+
+
