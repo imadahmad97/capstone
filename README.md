@@ -13,4 +13,4 @@ The use of Machine learning techniques has become a popular approach to crime an
 
 Recent advances in data science, machine learning and data mining have opened new ways to analyze data and derive insights. This project explores the use of machine-learning techniques to investigate the social factors that influence crime and gain valuable insights. This project has increased our knowledge and understanding about machine learning. It also provided us an opportunity to identify and solve problems related to the use of data science in crimes analysis. The project has enabled us to utilize different tools and techniques for performing exploratory data analysis and using machine learning algorithms, which are important for the development of machine learning models. Overall, this project was a valuable opportunity to gain practical experience in machine learning and contribute to creating a more inclusive and accessible society. 
 
-## 
+![Crimes Across Provinces](images/crimes_across_provinces.png "Crimes Across Provinces")
